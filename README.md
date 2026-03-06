@@ -1,6 +1,6 @@
 # Geometry Puzzle (unfinished)
 
-![](https://github.com/OS-of-S/Geometry-Puzzle-unfinished/blob/main/Geometry_Game_video_and_images/screenshot.png)
+<img width="908" height="557" alt="screenshot" src="https://github.com/user-attachments/assets/37142767-772f-4ea4-9ae7-b588c3599793" />
 
 Пространственная головоломка, в которой игроку необходимо на каждом из уровней добыть синий объект. Для этого он может толкать и тянуть остальные объекты, но только за определённые грани.
 
@@ -10,8 +10,4 @@
 
 Разработка: С. Смекты
 
-<video width="320" height="240" controls>
-  <source src="[video.mov](https://github.com/OS-of-S/Geometry-Puzzle-unfinished/blob/main/Geometry_Game_video_and_images/video_demonstration.mp4)" type="video/mp4">
-</video>
-
-yhh
+https://github.com/user-attachments/assets/def85750-6c08-4d14-83bd-892872f42061
